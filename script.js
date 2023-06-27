@@ -4,4 +4,10 @@
  let burat = "pau";
  let pao = "tite";
  let bago = "bago";
+
+
+
+ const Test = () =>{
+    console.log("Hello");
+ }
  
