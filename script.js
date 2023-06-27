@@ -11,4 +11,4 @@ let akoMayLalagay = "HEHE";
  }
 
  let paulo = "ako naman gagawa";
- 
+ let editKo = "ETO NAEDIT KO"
