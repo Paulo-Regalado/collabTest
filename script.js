@@ -9,4 +9,6 @@ let akoMayLalagay = "HEHE";
  const Test = () =>{
     console.log("Hello");
  }
+
+ let paulo = "ako naman gagawa";
  
