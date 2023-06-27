@@ -4,4 +4,4 @@
  let burat = "pau";
  let pao = "tite";
  let bago = "bago";
- 
+ let tites = "tite";
